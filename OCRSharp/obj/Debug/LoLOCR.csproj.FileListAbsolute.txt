@@ -1,0 +1,3 @@
+C:\Users\Teodor\Desktop\LoLOCR\OCRSharp\bin\Debug\OCRSharp.exe.config
+C:\Users\Teodor\Desktop\LoLOCR\OCRSharp\obj\Debug\OCRSharp.exe
+C:\Users\Teodor\Desktop\LoLOCR\OCRSharp\obj\Debug\OCRSharp.pdb

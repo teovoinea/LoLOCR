@@ -1,0 +1,11 @@
+C:\Users\Teodor\Desktop\OCRSharp\OCRSharp\bin\Debug\OCRSharp.exe.config
+C:\Users\Teodor\Desktop\OCRSharp\OCRSharp\bin\Debug\OCRSharp.exe
+C:\Users\Teodor\Desktop\OCRSharp\OCRSharp\bin\Debug\OCRSharp.pdb
+C:\Users\Teodor\Desktop\OCRSharp\OCRSharp\bin\Debug\tessnet2_64.dll
+C:\Users\Teodor\Desktop\OCRSharp\OCRSharp\bin\Debug\tessnet2_64.pdb
+C:\Users\Teodor\Desktop\OCRSharp\OCRSharp\obj\Debug\OCRSharp.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\OCRSharp\OCRSharp\obj\Debug\OCRSharp.Form1.resources
+C:\Users\Teodor\Desktop\OCRSharp\OCRSharp\obj\Debug\OCRSharp.Properties.Resources.resources
+C:\Users\Teodor\Desktop\OCRSharp\OCRSharp\obj\Debug\OCRSharp.csproj.GenerateResource.Cache
+C:\Users\Teodor\Desktop\OCRSharp\OCRSharp\obj\Debug\OCRSharp.exe
+C:\Users\Teodor\Desktop\OCRSharp\OCRSharp\obj\Debug\OCRSharp.pdb
